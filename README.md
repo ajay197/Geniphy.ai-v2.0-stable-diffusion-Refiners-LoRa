@@ -77,17 +77,19 @@ This README file include:
 ## **Examples**
 
 ### Generated Images
-**Image 1: Artistic Output**
+**Image 1: A Cute Puppy Realistic**
 ![Artistic Output](https://github.com/ajay197/Geniphy.ai-v2.0-stable-diffusion-Refiners-LoRa/blob/035e90225bf6b904b8984efc37afeb9af36c8774/Geniphy.ai%20v2.0_outputs/image%20(3).webp)
 
-**Image 2: Realistic Rendering**
-![Realistic Rendering](Geniphy.ai_v2.0_outputs/image%20(5).webp)
+**Image 2: A Cute Puppy Coloring Book**
+![High-Detail Illustration](https://github.com/ajay197/Geniphy.ai-v2.0-stable-diffusion-Refiners-LoRa/blob/3c090af262743911f27964673b7e1ccc55654aec/Geniphy.ai%20v2.0_outputs/image%20(8).webp)
 
-**Image 3: Abstract Art**
-![Abstract Art](Geniphy.ai_v2.0_outputs/image%20(6).webp)
+**Image 3: A Vegetable Plate Realistic**
+![Realistic Rendering](https://github.com/ajay197/Geniphy.ai-v2.0-stable-diffusion-Refiners-LoRa/blob/3c090af262743911f27964673b7e1ccc55654aec/Geniphy.ai%20v2.0_outputs/image%20(5).webp)
 
-**Image 4: High-Detail Illustration**
-![High-Detail Illustration](Geniphy.ai_v2.0_outputs/image%20(8).webp)
+**Image 4: A Vegetable Plate Coloring Book**
+![Abstract Art](https://github.com/ajay197/Geniphy.ai-v2.0-stable-diffusion-Refiners-LoRa/blob/3c090af262743911f27964673b7e1ccc55654aec/Geniphy.ai%20v2.0_outputs/image%20(6).webp)
+
+
 
 For more sample outputs, refer to the outputs folder.
 
