@@ -97,6 +97,27 @@ This README file include:
 ### Video Demonstration
 [Watch a Demo](path/to/demo.mp4)
 
+
+### Cute Kitten
+![Cute kitten on a fingertip](Geniphy_ai%20v1.0%20(sdxl_refiner)_output/cute%20kitten%20on%20a%20finger%20tip.jpg)
+
+### Dog playing in the garden
+![Dog playing in the garden](Geniphy_ai%20v1.0%20(sdxl_refiner)_output/A%20dog%20playing%20in%20the%20garden%201.png)
+
+### Influencer Model on Beach
+![Influencer model at beach scene](Geniphy_ai%20v1.0%20(sdxl_refiner)_output/influencer%20model,%20russian,%20blue%20eyes,%20blond%20hair,%20beach%20scene,%20beach%20dress.jpg)
+
+For more sample outputs, refer to the outputs folder.
+
+### Video Demonstration
+
+Watch the demonstration of **Geniphy AI v2.0** in action:
+
+[![Geniphy AI v2.0 Demo](https://img.youtube.com/vi/oo0RfFPfim0/maxresdefault.jpg)](https://www.youtube.com/watch?v=oo0RfFPfim0)
+
+Click the thumbnail above to watch the video on YouTube.
+
+
 ---
 
 ## **Contributing**
