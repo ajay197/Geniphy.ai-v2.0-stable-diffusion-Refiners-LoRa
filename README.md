@@ -77,10 +77,6 @@ This README file include:
 ## **Examples**
 
 ### Generated Images
-![Generated Image 1](path/to/image1.jpg)
-![Generated Image 2](path/to/image2.jpg)
-
-### Generated Images
 **Image 1: Artistic Output**
 ![Artistic Output](Geniphy.ai_v2.0_outputs/image%20(3).webp)
 
@@ -93,20 +89,6 @@ This README file include:
 **Image 4: High-Detail Illustration**
 ![High-Detail Illustration](Geniphy.ai_v2.0_outputs/image%20(8).webp)
 
-
-### Video Demonstration
-[Watch a Demo](path/to/demo.mp4)
-
-
-### Cute Kitten
-![Cute kitten on a fingertip](Geniphy_ai%20v1.0%20(sdxl_refiner)_output/cute%20kitten%20on%20a%20finger%20tip.jpg)
-
-### Dog playing in the garden
-![Dog playing in the garden](Geniphy_ai%20v1.0%20(sdxl_refiner)_output/A%20dog%20playing%20in%20the%20garden%201.png)
-
-### Influencer Model on Beach
-![Influencer model at beach scene](Geniphy_ai%20v1.0%20(sdxl_refiner)_output/influencer%20model,%20russian,%20blue%20eyes,%20blond%20hair,%20beach%20scene,%20beach%20dress.jpg)
-
 For more sample outputs, refer to the outputs folder.
 
 ### Video Demonstration
@@ -117,6 +99,15 @@ Watch the demonstration of **Geniphy AI v2.0** in action:
 
 Click the thumbnail above to watch the video on YouTube.
 
+
+---
+
+## Performance
+The model achieves optimal performance on the NVIDIA L4 GPU provided by Google Colab, with reduced processing times and enhanced image quality. Below is a summary of the performance metrics:
+
+- **Average generation time per image**: 20 seconds After first load
+- **GPU**: 22.5 GB%
+- **Memory**: 55 GB
 
 ---
 
