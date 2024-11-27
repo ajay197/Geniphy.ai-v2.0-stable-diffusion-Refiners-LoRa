@@ -78,7 +78,7 @@ This README file include:
 
 ### Generated Images
 **Image 1: Artistic Output**
-![Artistic Output]([Geniphy.ai v2.0_outputs/image (3).webp](https://github.com/ajay197/Geniphy.ai-v2.0-stable-diffusion-Refiners-LoRa/blob/035e90225bf6b904b8984efc37afeb9af36c8774/Geniphy.ai%20v2.0_outputs/image%20(3).webp))
+![Artistic Output](https://github.com/ajay197/Geniphy.ai-v2.0-stable-diffusion-Refiners-LoRa/blob/035e90225bf6b904b8984efc37afeb9af36c8774/Geniphy.ai%20v2.0_outputs/image%20(3).webp)
 
 **Image 2: Realistic Rendering**
 ![Realistic Rendering](Geniphy.ai_v2.0_outputs/image%20(5).webp)
