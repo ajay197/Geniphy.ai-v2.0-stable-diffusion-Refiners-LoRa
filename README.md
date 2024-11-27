@@ -78,7 +78,7 @@ This README file include:
 
 ### Generated Images
 **Image 1: Artistic Output**
-![Artistic Output](Geniphy.ai_v2.0_outputs/image%20(3).webp)
+![Artistic Output](Geniphy.ai v2.0_outputs/image (3).webp)
 
 **Image 2: Realistic Rendering**
 ![Realistic Rendering](Geniphy.ai_v2.0_outputs/image%20(5).webp)
